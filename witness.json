@@ -1,0 +1,25 @@
+{
+  "payload": {
+    "type": "WITNESS",
+    "timestamp": "2026-03-20T04:47:01.715860+00:00",
+    "statement": "Witness event confirmed"
+  },
+  "payload_hash": "28655709ad9817177ae700d910cb7bc389fd29b16f5ea84bc83482f17d9a2fdc",
+  "signers": [
+    {
+      "name": "\u2c6e",
+      "public_key": "it7tVpO486DIj9vQXEsmnm2avBjTFPC8t4C2vGEuG24=",
+      "signature": "3lr4wAs2nu1qpsoePSO9Q8ebPghocbUoBkpiZZ6QxGtzDqYkkx7FseB2LewDI97oc+X9cYDLNqew+osrU5nRCQ=="
+    },
+    {
+      "name": "JOHN",
+      "public_key": "8efWnzEmunI5ijT5DB8PhJgiPeFzc56sF6XTfcufQ8Y=",
+      "signature": "JHx57Ze8NpuNmgzZqncOUSnqH5KFJBYXO9FdDTaEL+sbvMjUKGuc/JyH7HOAgE0NyTa16zZkewozCgKX5FylAQ=="
+    },
+    {
+      "name": "NODE_606",
+      "public_key": "l50UhwlMgozsdFIACxoCPE2IbCU0pU+i6WgczAsqKYQ=",
+      "signature": "J4U3B8H3uMgNazkwUwPIa6+WKAtMwGgpiW4A3hLGDF4eddLMztDxAjHQtVCbHzvXkXHdWYJwm1KvStQ31DNiCA=="
+    }
+  ]
+}
